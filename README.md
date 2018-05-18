@@ -1,6 +1,10 @@
-# [draftjs_exporter_demo](https://draftjs-exporter.herokuapp.com/) [![Build Status](https://travis-ci.org/springload/draftjs_exporter_demo.svg?branch=master)](https://travis-ci.org/springload/draftjs_exporter_demo)
+# [Draft.js exporter demo](https://draftail-playground.herokuapp.com/)
 
-> A [demo](https://draftjs-exporter.herokuapp.com/) of [draftjs_exporter](https://github.com/springload/draftjs_exporter) and [Draftail](https://github.com/springload/draftail) used together.
+> A [demo](https://draftail-playground.herokuapp.com/) of [draftjs_exporter](https://github.com/springload/draftjs_exporter) and [Draftail](https://github.com/springload/draftail) used together.
+
+## Deprecated
+
+This demo has now been replaced with a new editor-focused playground, that still integrates the exporter: [https://github.com/thibaudcolas/draftail-playground](https://github.com/thibaudcolas/draftail-playground).
 
 ## Install
 
@@ -35,6 +39,6 @@ npm run
 
 ## Deployment
 
-> The demo is [on Heroku](https://draftjs-exporter.herokuapp.com/).
+> The demo is [on Heroku](https://draftail-playground.herokuapp.com/).
 
 It uses two buildpacks: `heroku/nodejs` and `heroku/python`, and is configured to automatically deploy after each push on `master`.
