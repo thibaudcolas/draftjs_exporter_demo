@@ -1,6 +1,6 @@
-# [Draft.js exporter demo](https://draftail-playground.herokuapp.com/)
+# Draft.js exporter demo
 
-> A [demo](https://draftail-playground.herokuapp.com/) of [draftjs_exporter](https://github.com/springload/draftjs_exporter) and [Draftail](https://github.com/springload/draftail) used together.
+> A demo of [draftjs_exporter](https://github.com/springload/draftjs_exporter) and [Draftail](https://github.com/springload/draftail) used together.
 
 ## Deprecated
 
